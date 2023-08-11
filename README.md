@@ -178,6 +178,7 @@ Figma
   top: 94px;
   width: 122px;
 }
+
 .login-page .rectangle {
   background-color: #0dd8f4;
   height: 43px;
@@ -186,6 +187,7 @@ Figma
   top: 277px;
   width: 245px;
 }
+
 .login-page .img {
   height: 43px;
   left: 52px;
@@ -193,6 +195,7 @@ Figma
   top: 390px;
   width: 245px;
 }
+
 .login-page .text-wrapper-2 {
   color: #f81414;
   font-family: "Inter-Regular", Helvetica;
@@ -205,6 +208,7 @@ Figma
   top: 250px;
   width: 183px;
 }
+
 .login-page .text-wrapper-3 {
   color: #f81414;
   font-family: "Inter-Regular", Helvetica;
@@ -217,6 +221,7 @@ Figma
   top: 359px;
   width: 183px;
 }
+
 .login-page .overlap-group {
   background-color: #0ef625;
   height: 44px;
@@ -347,6 +352,7 @@ Figma
   top: 74px;
   width: 360px;
 }
+
 .SEC-page .logo {
   height: 117px;
   left: 98px;
@@ -355,7 +361,6 @@ Figma
   top: 112px;
   width: 122px;
 }
-'''
 ## OUTPUT:
 ![Output](./out1.png)
 ![Output](./out2.png)
