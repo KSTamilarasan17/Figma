@@ -32,7 +32,6 @@ Publish the website in the given URL.
 Figma
 
 ## code:
-'''
 .home-page {
   background-color: #f90a0a;
   display: flex;
@@ -359,7 +358,7 @@ Figma
   object-fit: cover;
   position: absolute;
   top: 112px;
-  width: 122px;
+  width: 122px;
 }
 ## OUTPUT:
 ![Output](./out1.png)
