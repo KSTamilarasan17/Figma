@@ -33,7 +33,8 @@ Figma
 
 ## code:
 .home-page {
-  background-color: #f90a0a;
+ 
+   background-color: #f90a0a;
   display: flex;
   flex-direction: row;
   justify-content: center;
